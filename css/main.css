@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+}
+.text-block{
+    color: navajowhite;
+    border: 5px solid mediumslateblue;
+    /*border-width inherit;*/
+    border-top-width: 12px;
+    border-right-width: 12px;
+    border-left-width: 12px;
+    border-bottom-width: 12px;
+    /*border-style: solid;*/
+    border-top-style: double;
+    border-bottom-style: double;
+    border-left-style: double;
+    border-right-style: double;
+    /*border-color: mediumslateblue;*/
+    border-top-color: yellow;
+    border-right-color: red;
+    border-bottom-color: deepskyblue;
+    border-left-color: greenyellow;
+    text-align: center;
+    text-decoration: none;
+    letter-spacing: none;
+    line-height: 3px;
+}
